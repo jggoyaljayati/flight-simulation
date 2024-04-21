@@ -1,0 +1,41 @@
+.canvas{
+  width: 60%;
+  height: 100%;
+  background-color: purple
+}
+
+.sidePanel{
+    width: 40%;
+    height: 100%;
+    background-color: rgb(190, 235, 157);
+}
+
+.timeLine{
+    width: 50%;
+    height: 100%;
+    background-color: black;
+}
+
+.testCases{
+    width: 20%;
+    height: 100%;
+    background-color: rgb(39, 39, 39);
+}
+
+.inferenceLogs{
+    width: 30%;
+    height: 100%;
+    background-color: rgb(53, 53, 53);
+}
+
+.group1{
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+}
+
+.group2{
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+}
